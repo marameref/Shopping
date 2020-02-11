@@ -1,0 +1,14 @@
+body{background-color: aqua; font-family: cursive;}
+h1{
+    background-color:black;
+    font-size: 50px;
+}
+.name{color: darkgray; border-style: dotted; border-width: 50px;
+text-align: center;}
+.press{margin-top: 100px; padding-top: 50px;}
+.diva{height: 200px; width: 50%; background-color: coral;}
+ul.random{list-style-type: square;}
+.red{color: crimson;}
+table, th,td {border: 1px solid black;}
+table{width: 100%;}
+th{color: brown;}

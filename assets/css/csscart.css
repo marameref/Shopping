@@ -1,0 +1,30 @@
+.purple{
+    width: 1260px;
+    height: 20px;
+    background-color:purple;
+    }
+.one{
+    background-color: aqua;
+    height: 100%;
+    width: 80%;
+}
+     .qty{margin-left: 75px;}
+    .cart{margin-left: 180px;}
+
+
+    .Q2{margin-left: 75px;}
+    .cart2{margin-left: 175px;}
+
+
+.Q3{margin-left: 75px;}
+.cart3{margin-left: 175px;}
+
+
+.Q4{margin-left: 75px;}
+.cart4{margin-left: 175px;}
+
+.sidebar{
+    height: 1000px;
+    background-color: blueviolet;
+}
+
